@@ -1,0 +1,14 @@
+name: "Books"
+author: "psyTeachR"
+output_dir: "docs"
+output:
+  html_document:
+    self_contained: no
+    theme: flatly
+    css: style.css
+navbar:
+  title: "Books"
+  right:
+  - text: "psyTeachR"
+    icon: fa-home
+    href: /
