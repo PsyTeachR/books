@@ -2,12 +2,27 @@
 title: "Course Books"
 ---
 
-* [Overview](/ug-overview/)
-* [Level 1 Practical](/ug1-practical/)
-* [Level 2 Practical](/ug2-practical/)
-* [Level 2 Tutorial](/ug2-tutorial/)
-* [Level 3 Stats](/ug3-stats/)
-* [MSc Data Skills](/msc-data-skills/)
-* [MSc Conversion](/msc-conv-f2f/)
-* [Book Template](/book-template/)
-* [Glossary of Terms](/glossary/)
+<style>
+  img.logo {
+    width: 100px;
+    display: inline-block;
+  }
+</style>
+
+<img class="logo" src="img/overview.png"> [Overview](/ug-overview/) 
+
+<img class="logo" src="img/L1.png"> [Level 1 Practical](/ug1-practical/)
+
+<img class="logo" src="img/L2_practical.png"> [Level 2 Practical](/ug2-practical/)
+
+<img class="logo" src="img/L2_tutorial.png"> [Level 2 Tutorial](/ug2-tutorial/)
+
+<img class="logo" src="img/L3.png"> [Level 3 Stats](/ug3-stats/)
+
+<img class="logo" src="img/msc_conv.png"> [MSc Conversion](/msc-conv-f2f/)
+
+<img class="logo" src="img/msc_ds.png"> [MSc Data Skills](/msc-data-skills/)
+
+<img class="logo" src="img/glossary.png"> [Glossary of Terms](/glossary/)
+
+<img class="logo" src="img/psyteachr_hex.png"> [Book Template](/book-template/)
