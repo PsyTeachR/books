@@ -3,26 +3,61 @@ title: "Course Books"
 ---
 
 <style>
-  img.logo {
-    width: 100px;
-    display: inline-block;
+  br { clear: both; }
+  a.logo {
+    display: block;
+    width: 25%;
+    max-width: 150px;
+    min-width: 50px;
+    float: left;
+    margin-right: 10px;
   }
 </style>
 
-<img class="logo" src="img/overview.png"> [Overview](/ug-overview/) 
+<a class="logo" href="/ug-overview/"><img src="img/overview.png"></a>
 
-<img class="logo" src="img/L1.png"> [Level 1 Practical](/ug1-practical/)
+### [Overview](/ug-overview/) 
 
-<img class="logo" src="img/L2_practical.png"> [Level 2 Practical](/ug2-practical/)
+This book presents an overview of our undergraduate practical teaching in psychology for reproducible data analysis and for developing good research practices. We highlight briefly what we have done in developing our practical methodology and analysis classes; and give some examples that can be adapted to different teaching settings. We then link to resources in the different parts of our curriculum and assessment.
 
-<img class="logo" src="img/L2_tutorial.png"> [Level 2 Tutorial](/ug2-tutorial/)
+<br><a class="logo" href="/ug1-practical/"><img src="img/L1.png"></a>
 
-<img class="logo" src="img/L3.png"> [Level 3 Stats](/ug3-stats/)
+### [Level 1 Grassroots](/ug1-practical/)
 
-<img class="logo" src="img/msc_conv.png"> [MSc Conversion](/msc-conv-f2f/)
+Our level 1 course covers current state of psychological science and what Open Science is as well as its importance. It also aims to make studentsconfident and competent at using RStudio as a tool to achieve good data management skills.
 
-<img class="logo" src="img/msc_ds.png"> [MSc Data Skills](/msc-data-skills/)
+<br><a class="logo" href="/ug2-practical/"><img src="img/L2.png"></a>
 
-<img class="logo" src="img/glossary.png"> [Glossary of Terms](/glossary/)
+### [Level 2 Practical](/ug2-practical/)
 
-<img class="logo" src="img/psyteachr_hex.png"> [Book Template](/book-template/)
+Our level 2 course covers data skills such as R Markdown, data wrangling with tidyverse, and data visualisation with ggplot2. It also introduces statistical concepts such as permutation tests, NHST, alpha, power, effect size, and sample size. Semester 2 focusses on correlations and the general linear model.
+
+<br><a class="logo" href="/ug3-stats/"><img class="logo" src="img/L3.png"></a>
+
+### [Level 3 Statistics](/ug3-stats/)
+
+Our level 3 course covers statistical techniques in more detail, including the GLM and linear mixed effects models.
+
+<br><a class="logo" href="/msc-conv-f2f/"><img  src="img/msc_conv.png"> 
+
+### [MSc Conversion](/msc-conv-f2f/)
+
+This book contains materials for students on the MSc Conversion in Psychological Studies/Science, a one-year postgraduate degree for students with a non-psychology undergraduate degree. This research methods course covers core data skills that allow you to manipulate and analyse quantitative data.
+
+<br><a class="logo" href="/msc-data-skills/"><img  src="img/msc_ds.png"></a>
+
+### [MSc Data Skills](/msc-data-skills/)
+
+This course provides an overview of skills needed for reproducible research and open science using the statistical programming language R. Students will learn about data visualisation, data tidying and wrangling, archiving, iteration and functions, probability and data simulations, general linear models, and reproducible workflows.
+
+<br><a class="logo" href="/glossary/"><img class="logo" src="img/glossary.png"></a>
+
+### [Glossary of Terms](/glossary/)
+
+PsyTeachR books (and external websites) can link to the glossary to define common terms. Anyone can contribute to the glossary through the github project.
+
+<br><a class="logo" href="/book-template/"><img  src="img/psyteachr_hex.png"></a>
+
+### [Book Template](/book-template/)
+
+This guide provides materials and a quick start for the specific templates we're using for course books at UofG Psychology.
