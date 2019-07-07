@@ -16,7 +16,7 @@ title: "Course Books"
 
 <a class="logo" href="/ug-overview/"><img src="img/overview.png"></a>
 
-### [Overview](/ug-overview/) 
+### Overview (Coming Soon)
 
 This book presents an overview of our undergraduate practical teaching in psychology for reproducible data analysis and for developing good research practices. We highlight briefly what we have done in developing our practical methodology and analysis classes; and give some examples that can be adapted to different teaching settings. We then link to resources in the different parts of our curriculum and assessment.
 
@@ -34,7 +34,7 @@ Our level 2 course covers data skills such as R Markdown, data wrangling with ti
 
 <br><a class="logo" href="/ug3-stats/"><img class="logo" src="img/L3.png"></a>
 
-### [Level 3 Statistics](/ug3-stats/)
+### Level 3 Statistics (Coming Soon)
 
 This course teaches students how to specify, estimate, and interpret statistical models corresponding to various study designs, using a General Linear Models approach.
 
