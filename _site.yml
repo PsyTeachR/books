@@ -1,6 +1,7 @@
-name: "Books"
+name: "books"
 author: "psyTeachR"
 output_dir: "docs"
+exclude: ["README.md"]
 output:
   html_document:
     self_contained: no

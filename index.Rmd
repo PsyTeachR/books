@@ -20,9 +20,9 @@ title: "Course Books"
 
 This book presents an overview of our undergraduate practical teaching in psychology for reproducible data analysis and for developing good research practices. We highlight briefly what we have done in developing our practical methodology and analysis classes; and give some examples that can be adapted to different teaching settings. We then link to resources in the different parts of our curriculum and assessment.
 
-<br><a class="logo" href="https://clelandwoods.github.io/ug1-practical/"><img src="img/L1.png"></a>
+<br><a class="logo" href="https://psyteachr.github.io/ug1-practical/"><img src="img/L1.png"></a>
 
-### [Level 1 Grassroots](https://clelandwoods.github.io/ug1-practical/)
+### [Level 1 Grassroots](https://psyteachr.github.io/ug1-practical/)
 
 Our level 1 course covers current state of psychological science and what Open Science is as well as its importance. It also aims to make studentsconfident and competent at using RStudio as a tool to achieve good data management skills.
 

@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -247,18 +248,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -325,10 +314,10 @@ $(document).ready(function () {
 <div id="overview-coming-soon" class="section level3">
 <h3>Overview (Coming Soon)</h3>
 <p>This book presents an overview of our undergraduate practical teaching in psychology for reproducible data analysis and for developing good research practices. We highlight briefly what we have done in developing our practical methodology and analysis classes; and give some examples that can be adapted to different teaching settings. We then link to resources in the different parts of our curriculum and assessment.</p>
-<p><br><a class="logo" href="https://clelandwoods.github.io/ug1-practical/"><img src="img/L1.png"></a></p>
+<p><br><a class="logo" href="https://psyteachr.github.io/ug1-practical/"><img src="img/L1.png"></a></p>
 </div>
 <div id="level-1-grassroots" class="section level3">
-<h3><a href="https://clelandwoods.github.io/ug1-practical/">Level 1 Grassroots</a></h3>
+<h3><a href="https://psyteachr.github.io/ug1-practical/">Level 1 Grassroots</a></h3>
 <p>Our level 1 course covers current state of psychological science and what Open Science is as well as its importance. It also aims to make studentsconfident and competent at using RStudio as a tool to achieve good data management skills.</p>
 <p><br><a class="logo" href="https://philmcaleer.github.io/ug2-practical/"><img src="img/L2.png"></a></p>
 </div>
@@ -379,6 +368,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
