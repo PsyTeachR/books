@@ -7,7 +7,6 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -248,6 +247,18 @@ $(document).ready(function () {
 }
 </style>
 
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
 <!-- code folding -->
 
 
@@ -317,8 +328,8 @@ $(document).ready(function () {
 <p><br><a class="logo" href="https://psyteachr.github.io/ug1-practical/"><img src="img/L1.png"></a></p>
 </div>
 <div id="level-1-grassroots" class="section level3">
-<h3><a href="https://psyteachr.github.io/ug1-practical/">Level 1 Grassroots</a></h3>
-<p>Our level 1 course covers current state of psychological science and what Open Science is as well as its importance. It also aims to make studentsconfident and competent at using RStudio as a tool to achieve good data management skills.</p>
+<h3><a href="https://emilynordmann.github.io/ug1-practical/">Level 1 Grassroots</a></h3>
+<p>Our level 1 course covers current state of psychological science and what Open Science is as well as its importance. It also aims to make students confident and competent at using RStudio as a tool to achieve good data management skills.</p>
 <p><br><a class="logo" href="https://philmcaleer.github.io/ug2-practical/"><img src="img/L2.png"></a></p>
 </div>
 <div id="level-2-practical" class="section level3">
@@ -368,23 +379,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
