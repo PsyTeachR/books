@@ -14,12 +14,6 @@ title: "Course Books"
   }
 </style>
 
-<a class="logo" href="/ug-overview/"><img src="img/overview.png"></a>
-
-### Overview (Coming Soon)
-
-This book presents an overview of our undergraduate practical teaching in psychology for reproducible data analysis and for developing good research practices. We highlight briefly what we have done in developing our practical methodology and analysis classes; and give some examples that can be adapted to different teaching settings. We then link to resources in the different parts of our curriculum and assessment.
-
 <br><a class="logo" href="https://psyteachr.github.io/ug1-practical/"><img src="img/L1.png"></a>
 
 ### [Level 1 Grassroots](https://psyteachr.github.io/ug1-practical/)
@@ -56,8 +50,8 @@ This course provides an overview of skills needed for reproducible research and 
 
 PsyTeachR books (and external websites) can link to the glossary to define common terms. Anyone can contribute to the glossary through the github project.
 
+<!--
 <br><a class="logo" href="/book-template/"><img  src="img/psyteachr_hex.png"></a>
+-->
 
-### [Book Template](/book-template/)
-
-This guide provides materials and a quick start for the specific templates we're using for course books at UofG Psychology.
+If you are an educator looking to create your own version of PsyTeachR materials, please see our [PsyTeachR Book Template](https://psyteachr.github.io/book-template).
