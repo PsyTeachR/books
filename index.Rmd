@@ -50,8 +50,4 @@ This course provides an overview of skills needed for reproducible research and 
 
 PsyTeachR books (and external websites) can link to the glossary to define common terms. Anyone can contribute to the glossary through the github project.
 
-<!--
-<br><a class="logo" href="/book-template/"><img  src="img/psyteachr_hex.png"></a>
--->
-
-If you are an educator looking to create your own version of PsyTeachR materials, please see our [PsyTeachR Book Template](https://psyteachr.github.io/book-template).
+<br/><hr>If you are an educator looking to create your own version of PsyTeachR materials, please see our [PsyTeachR Book Template](https://psyteachr.github.io/book-template).
