@@ -16,21 +16,21 @@ title: "Course Books"
 
 <br><a class="logo" href="https://psyteachr.github.io/ug1-practical/"><img src="img/L1.png"></a>
 
-### [Level 1 Grassroots](https://psyteachr.github.io/ug1-practical/)
+### [Level 1: Grassroots](https://psyteachr.github.io/ug1-practical/)
 
-Our level 1 course covers current state of psychological science and what Open Science is as well as its importance. It also aims to make students confident and competent at using RStudio as a tool to achieve good data management skills.
+Our first-year undergraduate course covers current state of psychological science and what Open Science is as well as its importance. It also aims to make students confident and competent at using RStudio as a tool to achieve good data management skills.
 
 <br><a class="logo" href="https://philmcaleer.github.io/ug2-practical/"><img src="img/L2.png"></a>
 
-### [Level 2 Practical](https://philmcaleer.github.io/ug2-practical/)
+### [Level 2: Practical](https://philmcaleer.github.io/ug2-practical/)
 
-Our level 2 course covers data skills such as R Markdown, data wrangling with tidyverse, and data visualisation with ggplot2. It also introduces statistical concepts such as permutation tests, NHST, alpha, power, effect size, and sample size. Semester 2 focusses on correlations and the general linear model.
+Our second-year undergraduate course covers data skills such as R Markdown, data wrangling with tidyverse, and data visualisation with ggplot2. It also introduces statistical concepts such as permutation tests, NHST, alpha, power, effect size, and sample size. Semester 2 focusses on correlations and the general linear model.
 
 <br><a class="logo" href="/ug3-stats/"><img class="logo" src="img/L3.png"></a>
 
-### Level 3 Statistics (Coming Soon)
+### Level 3: Statistical Models (Coming Soon)
 
-This course teaches students how to specify, estimate, and interpret statistical models corresponding to various study designs, using a General Linear Models approach.
+This third-year undergraduate course teaches students how to specify, estimate, and interpret statistical models corresponding to various study designs, using a General Linear Models approach.
 
 <br><a class="logo" href="/msc-conv-f2f/"><img  src="img/msc_conv.png"> 
 
