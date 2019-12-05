@@ -1,0 +1,15 @@
+.level:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column-left {
+    float: left;
+    width: 15%;
+}
+
+.column-right {
+    float: left;
+    width: 85%;
+}
