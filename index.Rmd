@@ -29,6 +29,8 @@ Authors: [Emily Nordmann](https://www.gla.ac.uk/schools/psychology/staff/emilyno
 
 Contact: [Emily Nordmann](https://www.gla.ac.uk/schools/psychology/staff/emilynordmann/)
 
+Contributors: [Jack Taylor](https://www.psy.gla.ac.uk/otherstaff/?id=JT002), [Shannon McNee](https://twitter.com/ShannonMcNee2)
+
 </div>
 </div>
 
@@ -104,6 +106,8 @@ This course provides an overview of skills needed for reproducible research and 
 Authors: [Lisa DeBruine](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/lisadebruine/), [Dale Barr](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/dalebarr/)
 
 Contact: [Lisa DeBruine](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/lisadebruine/)
+
+Contributors: [Rebecca Lai](http://www.psy.gla.ac.uk/staff/index.php?id=RL003)
 
 </div>
 </div>
