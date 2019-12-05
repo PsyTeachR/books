@@ -32,7 +32,7 @@ Contributing Author: [Heather Woods](https://www.gla.ac.uk/schools/psychology/st
 </div>
 </div>
 
-<hr/>
+<br/>
 
 <div class="level">
 <div class="column-left">
@@ -52,7 +52,7 @@ Contributing Author: [Helena Paterson](https://www.gla.ac.uk/schools/psychology/
 </div>
 </div>
 
-<hr/>
+<br/>
 
 <div class="level">
 <div class="column-left">
@@ -70,7 +70,7 @@ Lead Author: [Dale Barr](https://www.gla.ac.uk/researchinstitutes/neuroscienceps
 </div>
 </div>
 
-<hr/>
+<br/>
 
 <div class="level">
 <div class="column-left">
@@ -88,7 +88,7 @@ Lead Author: [Emily Nordmann](https://www.gla.ac.uk/schools/psychology/staff/emi
 </div>
 </div>
 
-<hr/>
+<br/>
 
 <div class="level">
 <div class="column-left">
@@ -108,7 +108,7 @@ Contributing Author: [Dale Barr](https://www.gla.ac.uk/researchinstitutes/neuros
 </div>
 </div>
 
-<hr/>
+<br/>
 
 <div class="level">
 <div class="column-left">
@@ -127,7 +127,5 @@ If you are an educator looking to create your own version of PsyTeachR materials
 
 </div>
 </div>
-
-
 
 
