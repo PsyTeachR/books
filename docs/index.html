@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -86,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -235,6 +234,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +246,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -339,7 +327,7 @@ $(document).ready(function () {
 <p><a href="https://philmcaleer.github.io/ug2-practical/"><img src="img/L2.png" width=150></a></p>
 </div>
 <div class="column-right">
-<h3 id="level-2-practical"><a href="https://philmcaleer.github.io/ug2-practical/">Level 2: Practical</a></h3>
+<h3 id="level-2-practical"><a href="https://psyteachr.github.io/ug2-practical/">Level 2: Practical</a></h3>
 <p>Our second-year undergraduate course covers data skills such as R Markdown, data wrangling with tidyverse, and data visualisation with ggplot2. It also introduces statistical concepts such as permutation tests, NHST, alpha, power, effect size, and sample size. Semester 2 focusses on correlations and the general linear model.</p>
 <p>Authors: <a href="https://www.gla.ac.uk/schools/psychology/staff/philipmcaleer">Phil McAleer</a>, <a href="https://www.gla.ac.uk/schools/psychology/staff/helenapaterson/">Helena Paterson</a></p>
 <p>Contact: <a href="https://www.gla.ac.uk/schools/psychology/staff/philipmcaleer">Phil McAleer</a></p>
@@ -409,6 +397,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
