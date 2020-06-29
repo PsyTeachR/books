@@ -63,7 +63,7 @@ Contact: [Phil McAleer](https://www.gla.ac.uk/schools/psychology/staff/philipmca
 
 <div class="column-right">
 
-### Level 3: Statistical Models (Coming Soon)
+### [Level 3: Statistical Models](https://psyteachr.github.io/ug3-stats/)
 
 This third-year undergraduate course teaches students how to specify, estimate, and interpret statistical models corresponding to various study designs, using a General Linear Models approach.
 
