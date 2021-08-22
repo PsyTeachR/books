@@ -13,3 +13,13 @@
     float: left;
     width: 85%;
 }
+
+br { clear: both; }
+
+.column-left img {
+    display: block;
+    width: 100%;
+    max-width: 150px;
+    min-width: 50px;
+    margin-right: 10px;
+}
