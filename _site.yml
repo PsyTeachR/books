@@ -7,6 +7,8 @@ output:
     self_contained: no
     theme: flatly
     css: style.css
+    includes:
+      in_header: "header.html"
 navbar:
   title: "Books"
   right:
